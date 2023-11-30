@@ -42,3 +42,5 @@
     - Due to this layered system, the security of the application increases. As only one layer depends on its adjacent layers.
   - **Code on Demand**
     - This feature enables a server to send the code to client if needed.
+    ## References
+    * [REST API geeks for geeks](https://www.geeksforgeeks.org/rest-api-introduction/)

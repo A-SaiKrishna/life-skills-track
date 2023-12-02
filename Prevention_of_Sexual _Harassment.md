@@ -8,7 +8,7 @@ If some unwelcome or inappropriate is repated following need to be do
 * Convey the person about your uneasiness.
 * If it repeats taking certain action is recquired.
 # Explains different scenarios enacted by actors.
-##MENU
+## MENU
 * Artistic Freedom.
 * Equal Appreciation.
 * Everyone Loves a Compliment.

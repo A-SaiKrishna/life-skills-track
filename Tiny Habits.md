@@ -12,7 +12,7 @@ We may not achieve big habits as behavior however, we can practice its tiny vers
 The main motto in this is it automatically increases one's confidence and motivation. It means self-encouragement.
 
 ## 4. In this video, what was the most interesting story or idea for you?
-The four stages are Noticing, Wanting, Doing, and Liking. In this, in doing we need to start over and over again, optimise the starting line. We need to keep in mind that good habit's rewards are delayed.
+The four stages are Noticing, Wanting, Doing, and Liking. In this, in doing we need to start over and over again, and optimise the starting line. We need to keep in mind that good habit's rewards are delayed.
 
 ## 5. What is the book's perspective about Identity?
 We need to adopt a *habit* such that it becomes part of identity. Goals restrict our happiness. 
@@ -36,3 +36,9 @@ It needs to follow the following steps
 * Joining any active groups on social media.
 * Explaining the gained knowledge to interested friends.
 
+## 9. Pick one habit that you would like to eliminate or do less of? What are the steps that you can take to make it make the cue invisible the process unattractive or hard or the response unsatisfying?
+Spending time on social media is one bad habit that needs to optimized. 
+### steps
+* Monitoring screen time and maintaining alerts after completion of the limit set for the day.
+* Avoiding mobile as much as possible.
+* Maintaining a chart that tells the streak of good maintenance of phone.
